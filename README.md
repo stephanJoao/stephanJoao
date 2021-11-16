@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 <style>
-  
+  div {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+  }
 </style>
 
-<div align="center">
+<div width align="center">
   <a href="https://github.com/stephanJoao">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stephanJoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanJoao&layout=compact&langs_count=7&theme=dark"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stephanJoao&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanJoao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
